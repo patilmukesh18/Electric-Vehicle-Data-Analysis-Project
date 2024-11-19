@@ -71,4 +71,4 @@ This project focuses on analyzing a dataset related to electric vehicles (EVs) t
 ## 📝 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ev-data-analysis.git
+   git@github.com:patilmukesh18/Electric-Vehicle-Data-Analysis-Project.git
